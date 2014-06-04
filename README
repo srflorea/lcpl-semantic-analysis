@@ -1,0 +1,12 @@
+Semantic Analysis for LCPL Programming Language
+
+LCPL is a programming language implemented by past students at University
+Politehnica of Bucharest and currently is used by students during Compilers
+course.
+
+This project needs the AST(abstract syntax tree) generated during the syntax
+analysis phase, tree that will be enriched with new information specific to
+the semantic annalysis.
+
+Compiling and running the program it is possible by following the rules from
+the Makefile file.
